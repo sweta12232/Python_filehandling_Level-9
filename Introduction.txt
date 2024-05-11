@@ -1,0 +1,8 @@
+#file  I/O in python
+#Python can be used to perform operation on a file(Read and write data)
+#types of all files
+#1. text files: txt, docx, log
+#2. Binary files: mp4, mov, png, jpeg
+
+
+#Opening a file before reading or writing

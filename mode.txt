@@ -1,0 +1,7 @@
+r = opening file for reading, which is default
+w = open for writing , truncating the first file
+x = create a new file and open it for writing
+a - open for writing, appending to the end of the file if it exists
+b = binary mode
+t = text mode(Default)
++ = open a disk file for updating(Reading and writing)
